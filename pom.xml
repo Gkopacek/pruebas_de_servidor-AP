@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.portfolio</groupId>
-    <artifactId>gk</artifactId>
+    <artifactId>mgb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gk.produccion</name>
-    <description>Portfolio de Gk</description>
+    <name>mgb.Produccion</name>
+    <description>Portfolio de MGB</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
@@ -87,4 +87,3 @@
     </build>
 
 </project>
-
